@@ -1,0 +1,51 @@
+
+
+body{
+    width: 800px;
+    margin: auto;
+    background-color: lightsteelblue;
+}
+
+header{
+    background-image: accueil_image_2.png;
+    padding-bottom:20px;
+}
+
+header h3{
+    text-align: right;
+}
+
+
+.contener{
+    border:solid black;
+    border-radius: 25px;
+    display: grid;
+    grid-template-columns: 60% 25%;
+    justify-content: space-between;
+    padding:15px;
+}
+.contener h2{
+    text-align: center;
+    margin-bottom: 30px;
+} 
+.jour{
+    margin-top: 10px;
+    border: solid 2px black;
+    border-radius: 25px;
+    padding:10px;
+}
+
+nav h2{
+    text-align: center;
+}
+ ul{
+     list-style: disc;
+ }
+
+ ul li{
+     margin-top: 1em;
+ }
+ ul li a {
+     text-decoration: none;
+     color: black;
+ }
