@@ -1,0 +1,4 @@
+jupyter-contrib-nbextensions
+ipythonblocks
+bs4
+ipyturtle
